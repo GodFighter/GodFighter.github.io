@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+# Site settings
+
+title: 天天项尚
+SEOTitle: iXiangShang's Father的博客 | iXiangShang Blog
+header-img: img/home-bg-hill.jpg
+email: xianghui.hhht@gmail.com
+description: "等等再说"
+keyword: "项尚, xiangshang, iXiangShang"
+url: "https://GodFighter.github.io"
+baseurl: ""
